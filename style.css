@@ -1,0 +1,32 @@
+/* plugin:mantisreporter */
+.mantisreporter {
+    background-color: #EDEDED;
+    color: #808080;
+}
+
+.mantisreporter td {
+    margin-right: 10px;
+}
+.mantisreporter select {
+    width: 200px;
+}
+.mantisreporter .summary {
+    width: 632px;
+}
+
+.mantisreporter  textarea {
+    width: 632px;
+}
+
+.mantisreporter .prognose-td {
+    text-align: right;
+}
+
+.mantisreporter .submit {
+    text-align: right;
+}
+
+.mantisreporter .prognose-input {
+    width: 36px;
+}
+

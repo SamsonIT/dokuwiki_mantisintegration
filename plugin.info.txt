@@ -1,0 +1,7 @@
+base   mantis reporter
+author Samson-IT
+email  info@samson-it.nl
+date   2011-08-31
+name   Mantis Reporter
+desc   Report a mantis issue. Don't forget to include the id of the project.
+url    http://www.dokuwiki.org/plugin:passwords
